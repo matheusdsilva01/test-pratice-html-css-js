@@ -1,0 +1,7 @@
+div.challenge-3 ul>li:nth-child(odd) {
+    background-color: greenyellow;
+}
+
+div.challenge-3 ul>li:nth-child(even) {
+    background-color: aqua;
+}
